@@ -1,12 +1,10 @@
-# Your Name Here
+# Quinn Kwiatkowski
 # UWYO COSC 1010
-# Submission Date
+# 10/29/2024
 # Lab 03 
-# Lab Section: 
-# Sources, people worked with, help given to: 
-# your
-# comments
-# here
+# Lab Section: 14
+# Sources, people worked with, help given to: None
+# Comments: None
 
 
 
@@ -17,7 +15,7 @@
 print("Part One------------------------------------------------------------------------")
 #We are going to start with the basics. Declare a list  states that contains the elements: Wyoming, Colorado, Montana in that order 
 #Note this is the ONLY point where you need to declare the states list
-
+states = ["Wyoming", "Colorado", "Montana"]
 
 
 #print the entire list
