@@ -51,8 +51,9 @@ del states[3]
 print(states)
 
 #Remove Texas using its value, print the list
-states.remove("Texas")
+states.remove("Texas") #"This ain't Texas" - Beyonce probably
 print(states)
+
 
 print("Part Three----------------------------------------------------------------------")
 #Temporarily sort your list, print it both sorted and unsorted 
