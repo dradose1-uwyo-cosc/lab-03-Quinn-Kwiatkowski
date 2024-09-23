@@ -1,0 +1,13 @@
+names = ["Shehadi", "Quinn", "Eddie", "Ethan", "Ryan", "Jake"]
+print(names)
+names.remove("Quinn")
+print(names)
+
+# Loop through the names
+# "is on my table"
+
+for name in names:
+    print(f"{name} is at my table")
+
+names.sort()
+print(names)
